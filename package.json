@@ -1,0 +1,25 @@
+{
+  "name": "collab-text",
+  "version": "1.0.0",
+  "description": "A GoogleDocs-inspired collaborative text editor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirghaeng/CollabText.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirghaeng/CollabText/issues"
+  },
+  "homepage": "https://github.com/mirghaeng/CollabText#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "ws": "^8.18.1"
+  }
+}
