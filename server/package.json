@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "0.1.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "ws": "^8.18.1",
+    "y-websocket": "^2.1.0",
+    "yjs": "^13.6.24"
+  }
+}
